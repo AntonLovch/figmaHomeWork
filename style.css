@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;800;900&display=swap');
+
+.container_1 {
+    font-family: Poppins;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url('gazon.jpg');
+    background-size: cover;
+    height: 840px;
+    width: 1903px;
+    padding-top: 49px;
+}
+.head_container {
+    display: flex;
+    justify-content: center;
+}
+.round {
+    font-size: 49px;
+    font-weight: 800;
+    color: white;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 2px;
+    padding-bottom: 1px;
+}
+.icon {
+    margin-right:15px ;
+    height: 67px;
+    width: 65px;
+    padding-top: 17px;
+}
+.shadow {
+    text-align: center;
+    background-color: black;
+    width: 300px;
+    opacity: 0.5;
+    border-radius: 50px;
+    margin-top: 7px;
+    
+}
+.shadow_1 {
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.01em;
+    margin-right: 2px;
+   
+}
+.round_2 {
+    letter-spacing: 0.14em;
+    margin-top: -15px;
+    color: white;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.bigLorem {
+    color: white;
+    font-size: 116px;
+    width: 983px;
+    font-weight: 900;
+    margin: 15px 0px 0px 0px ;
+    text-align: center;
+    line-height: 0.92; 
+}
+
+.button {
+    font-size: 15px;
+    font-weight: 700;
+    width: 146px;
+    height: 58px;
+    margin-top: 80px;
+    border-radius: 50px;
+    color:rgba(5, 142, 5, 0.8);
+    border: none;
+}
